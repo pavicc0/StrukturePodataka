@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC90600F-332F-469D-8DC4-C0BD6B7002ED}|zadatak 1.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 1\\z1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC90600F-332F-469D-8DC4-C0BD6B7002ED}|zadatak 1.vcxproj|solutionrelative:z1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "z1.c",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 1\\z1.c",
+              "RelativeDocumentMoniker": "z1.c",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 1\\z1.c",
+              "RelativeToolTip": "z1.c",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T18:47:24.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
