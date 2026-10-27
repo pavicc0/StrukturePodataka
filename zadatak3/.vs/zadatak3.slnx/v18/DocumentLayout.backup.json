@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F60ADC-67EE-4C7A-9535-37F2B32673FE}|zadatak3.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak3\\zadatak3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72F60ADC-67EE-4C7A-9535-37F2B32673FE}|zadatak3.vcxproj|solutionrelative:zadatak3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak3.cpp",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak3\\zadatak3.cpp",
+              "RelativeDocumentMoniker": "zadatak3.cpp",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak3\\zadatak3.cpp",
+              "RelativeToolTip": "zadatak3.cpp",
+              "ViewState": "AgIAADEBAAAAAAAAAAAowEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T18:59:01.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
