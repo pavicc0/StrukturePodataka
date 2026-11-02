@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "zadatak4\\x64\\Debug\\zadatak4.obj",
+            "outputs": [
+                "zadatak4\\x64\\Debug\\zadatak4.cpp.obj.dt.module.json",
+                "zadatak4\\x64\\Debug\\zadatak4.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

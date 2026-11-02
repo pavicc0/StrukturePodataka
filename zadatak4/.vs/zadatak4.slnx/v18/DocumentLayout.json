@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\zadatak4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|solutionrelative:zadatak4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|solutionrelative:p1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{761D0276-1290-4C08-A05B-D47E8F0DB3AE}|zadatak4.vcxproj|solutionrelative:p2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "p2.txt",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p2.txt",
+              "RelativeDocumentMoniker": "p2.txt",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p2.txt",
+              "RelativeToolTip": "p2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T19:32:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p1.txt",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p1.txt",
+              "RelativeDocumentMoniker": "p1.txt",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\p1.txt",
+              "RelativeToolTip": "p1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T19:31:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak4.cpp",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\zadatak4.cpp",
+              "RelativeDocumentMoniker": "zadatak4.cpp",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak4\\zadatak4.cpp",
+              "RelativeToolTip": "zadatak4.cpp",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T19:12:09.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
