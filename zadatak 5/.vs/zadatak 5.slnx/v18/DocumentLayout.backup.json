@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478A2D6B-2685-4E84-A687-AE0525769D16}|zadatak 5.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\zadatak 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{478A2D6B-2685-4E84-A687-AE0525769D16}|zadatak 5.vcxproj|solutionrelative:zadatak 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478A2D6B-2685-4E84-A687-AE0525769D16}|zadatak 5.vcxproj|C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\izraz.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{478A2D6B-2685-4E84-A687-AE0525769D16}|zadatak 5.vcxproj|solutionrelative:izraz.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "izraz.txt",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\izraz.txt",
+              "RelativeDocumentMoniker": "izraz.txt",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\izraz.txt",
+              "RelativeToolTip": "izraz.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-09T22:14:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak 5.cpp",
+              "DocumentMoniker": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\zadatak 5.cpp",
+              "RelativeDocumentMoniker": "zadatak 5.cpp",
+              "ToolTip": "C:\\Users\\gabi0\\Desktop\\vjezbe-sp\\zadatak 5\\zadatak 5.cpp",
+              "RelativeToolTip": "zadatak 5.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-09T21:58:20.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
